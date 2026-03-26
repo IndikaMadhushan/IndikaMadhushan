@@ -24,6 +24,7 @@
 - 👯 I’m looking to collaborate on **Java Spring Boot and React full-stack projects**
 - 🤝 I’m looking for help with **Spring Security, testing, deployment, and system design**
 - 💬 Ask me about **Java, Spring Boot, React, REST APIs, JWT, MySQL, and full-stack development**
+- 💼 Open to Software Engineering Internship opportunities
 - 🎸 Beyond tech, I’m also interested in **music** and enjoy guitar, flute, and vocals
 - 📫 How to reach me: **indikamad.i@gmail.com**
 
