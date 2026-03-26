@@ -70,15 +70,6 @@ A desktop-based system for managing police-related information with role-based f
 **Link:**
 - [Police-info-management-System Repository](https://github.com/IndikaMadhushan/Police-info-management-System)
 
----
-
-## 🛠️ Languages and Tools
-
-- **Languages:** Java, JavaScript, C, C#, SQL
-- **Frontend:** React, HTML, CSS, Tailwind CSS
-- **Backend:** Spring Boot, REST APIs, JWT
-- **Databases:** MySQL, SQL Server
-- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Visual Studio, Postman
 
 ---
 
